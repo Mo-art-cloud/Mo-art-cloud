@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Motlatsi Moropa</h1>
-<h3 align="center">Aspiring software developer with a passion for emerging tech—constantly learning, building projects, and adapting to new challenges.</h3>
+<h3 align="center">Aspiring software developer with a passion for emerging tech, constantly learning, building projects, and adapting to new challenges.</h3>
 
 - 🌱 I’m currently learning **AI Fundamentals and Bootstrap**
 
